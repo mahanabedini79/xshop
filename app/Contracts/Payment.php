@@ -5,7 +5,7 @@ namespace App\Contracts;
 interface Payment
 {
 
-    /**
+    /**sdsa
      * Register Payment Service Provider
      *
      * @return self
